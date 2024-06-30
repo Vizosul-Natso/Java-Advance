@@ -1,0 +1,22 @@
+package com.natso.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+@Controller
+public class MainController {
+	
+	//Using Model
+	
+	@RequestMapping(value = "/person" , method = RequestMethod.GET)
+	public String getConfirmation(Model m) {
+		m.addAttribute("name", "Natso");
+		m.addAttribute("age", 27);
+		m.addAttribute("job", "software developer");
+		
+		return "person.jsp";
+	}
+
+}

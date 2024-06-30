@@ -1,0 +1,32 @@
+package com.natso.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.natso.entity.Person;
+
+@Controller
+public class PersonController {
+	@ModelAttribute
+	public void modelDate(Model m) {
+		m.addAttribute("name", "Alien");
+	}
+	
+	@RequestMapping("/")
+	public String home() {
+		
+		return "index";
+	}
+	
+	@RequestMapping("addPerson")
+	public String addAlien(@ModelAttribute Person p,Model m) {
+			
+		m.addAttribute("person",p);
+		
+		return "result";
+		
+	}
+
+}

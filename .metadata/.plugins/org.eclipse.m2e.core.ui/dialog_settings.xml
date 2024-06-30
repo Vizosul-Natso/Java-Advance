@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\vizon\OneDrive\Desktop\My Space\Java Advance\SpringMVC"/>
+			<item value="C:\Users\vizon\OneDrive\Desktop\JavaPractiseCodes\Servlet_Dispatch\src\main\java\Servlet\UserLogin\disp2.java"/>
+			<item value="C:\Users\vizon\OneDrive\Desktop\JavaPractiseCodes\GenericServlet"/>
+			<item value="C:\Users\vizon\OneDrive\Desktop\JavaPractiseCodes\Servlet\src\main\java\com\natso\servlet\Test2.java"/>
+			<item value="C:\Users\vizon\OneDrive\Desktop\JavaPractiseCodes\HIBERNATE\src\main\java\HBController\HBController.java"/>
+			<item value="C:\Users\vizon\OneDrive\Desktop\JavaPractiseCodes\HIBERNATE\src\main\java\Find\Find_HQL.java"/>
+			<item value="C:\Users\vizon\OneDrive\Desktop\JavaPractiseCodes\HIBERNATE\src\main\resources\META-INF\persistence.xml"/>
+			<item value="C:\Users\vizon\OneDrive\Desktop\JavaPractiseCodes\JDBC\src\main\java\com\jdbc\StudentManagementSystem.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.natso.springmvc1.SpringMVC1"/>
+			<item value="com.natso.springmvc.SpringMVC"/>
+			<item value="com.natso.ServletReqDispatcher"/>
+			<item value="com.natso.Servlet_ReqDispatch"/>
+			<item value="com.natso.Servlet_Dispatch"/>
+			<item value="com.natso.GenericServlet"/>
+			<item value="com.apple.servlet.com.apple.servlet"/>
+			<item value="com.natso.Servlet"/>
+			<item value="com.natso.Servlets"/>
+		</list>
+		<list key="groupId">
+			<item value="com.natso.springmvc1"/>
+			<item value="com.natso.springmvc"/>
+			<item value="com.natso"/>
+			<item value="com.apple.servlet"/>
+		</list>
+		<list key="artifactId">
+			<item value="SpringMVC1"/>
+			<item value="SpringMVC"/>
+			<item value="ServletReqDispatcher"/>
+			<item value="Servlet_ReqDispatch"/>
+			<item value="Servlet_Dispatch"/>
+			<item value="GenericServlet"/>
+			<item value="com.apple.servlet"/>
+			<item value="Servlet"/>
+			<item value="Servlets"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+</section>
